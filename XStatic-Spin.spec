@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Spin
 Version  : 1.2.5.2
-Release  : 8
+Release  : 9
 URL      : https://pypi.python.org/packages/source/X/XStatic-Spin/XStatic-Spin-1.2.5.2.tar.gz
 Source0  : https://pypi.python.org/packages/source/X/XStatic-Spin/XStatic-Spin-1.2.5.2.tar.gz
 Summary  : Spin 1.2.5 (XStatic packaging standard)
